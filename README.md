@@ -76,7 +76,7 @@ SuperStore_E_f_Andres_felipe_diaz_campos.xlsx
 
 > 📸 *Vista previa del dashboard interactivo*
 
-![Dashboard SuperStore](./assets/dashboard_preview.png)
+![Dashboard SuperStore](superstore-analisis-ventas/assets/dashboard_preview.png)
 
 ---
 
